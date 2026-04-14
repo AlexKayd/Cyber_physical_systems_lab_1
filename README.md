@@ -29,5 +29,5 @@ ResNet18 показал наилучшее качество и является 
 
 ## 3. Как запустить
 
-Рекомендуемая среда – Google Colab с GPU T4
+Рекомендуемая среда – Google Colab с GPU T4  
 Локальный запуск: pip install torch torchvision kagglehub matplotlib seaborn scikit-learn tqdm
